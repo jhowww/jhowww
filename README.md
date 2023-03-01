@@ -1,4 +1,4 @@
-Enjoy developing java, rust, and go
+Enjoy developing with java, rust, and go.
 
 <!---
 Jhowww/Jhowww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
